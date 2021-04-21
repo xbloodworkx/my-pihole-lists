@@ -1,21 +1,28 @@
 id,type,domain,enabled,date_added,date_modified,comment
-19,3,^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.],1,1585426668,1608564394,
-20,3,^(.+[-_.])??ad[sxv]?[0-9]*[-_.],1,1585426668,1608564396,
-21,3,^(.+[-_.])??telemetry[-.],1,1585426668,1608564398,
-22,3,^(.+[-_.])??xn--,1,1585426668,1608564400,
-23,3,^adim(age|g)s?[0-9]*[-_.],1,1585426668,1608564401,
-24,3,^adtrack(er|ing)?[0-9]*[-.],1,1585426668,1608564403,
-25,3,^advert(s|is(ing|ements?))?[0-9]*[-_.],1,1585426668,1608564404,
-26,3,^aff(iliat(es?|ion))?[-.],1,1585426668,1608564405,
-27,3,^analytics?[-.],1,1585426668,1608564406,
-28,3,^banners?[-.],1,1585426668,1608564408,
-29,3,^beacons?[0-9]*[-.],1,1585426668,1608564427,
-30,3,^count(ers?)?[0-9]*[-.],1,1585426668,1608564421,
-31,3,^pixels?[-.],1,1585426668,1608564418,
-32,3,^stat(s|istics)?[0-9]*[-.],1,1585426668,1608564415,
-33,3,^track(ers?|ing)?[0-9]*[-.],1,1585426668,1608564413,
-34,3,^traff(ic)?[-.],1,1585426668,1608564412,
-35,3,^(ads|logs|cloudservices).roku.com$,1,1585426668,1608564411,
-36,0,track.shipstation.com,1,1586220825,1589684086,"USPS tracking"
-37,0,ib.huluim.com,1,1593787890,1593787985,"Hulu scrubbing thumbnails"
-43,2,^beacons([0-9])?\.(gcp\.)?gvt([0-9])\.com$,1,1608398374,1608398374,"Fixes Google Meet buttons"
+1,1,trace.svc.ui.com,1,1596209009,1596209009,
+2,1,112.2o7.net,1,1596209042,1596209042,
+3,0,clients3.google.com,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+4,0,clients4.google.com,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+5,0,clients5.google.com,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+6,0,www.bit.ly,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+7,0,bit.ly,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+8,0,ow.ly,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+9,0,j.mp,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+10,0,goo.gl,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+11,0,tinyurl.com,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+12,0,netflix.com,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+13,0,tomshardware.com,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+14,0,ocsp.apple.com,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+15,0,s.shopify.com,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+16,0,keystone.mwbsys.com,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+17,0,dl.dropbox.com,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+18,0,api.ipify.org,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+19,0,zombiegeek.com,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+20,0,rabidrobots.com,1,1589202647,1596209144,"Migrated from /etc/pihole/whitelist.txt"
+21,0,plex.tv,1,1589725779,1596209144,
+22,2,(\.|^)maximus\.com$,1,1590675859,1596209144,""
+23,2,(\.|^)plex\.tv$,1,1590675915,1596209144,""
+25,0,dicks-sporting-goods.pxf.io,1,1591885502,1596209144,
+26,0,www.ojrq.net,1,1591885518,1596209144,
+28,0,go.itpro.tv,1,1595623493,1596209144,"Added from Query Log"
+29,0,www.tkqlhce.com,1,1605453122,1605453122,Rakuten
