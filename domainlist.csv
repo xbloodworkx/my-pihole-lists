@@ -26,3 +26,9 @@ id,type,domain,enabled,date_added,date_modified,comment
 26,0,www.ojrq.net,1,1591885518,1596209144,
 28,0,go.itpro.tv,1,1595623493,1596209144,"Added from Query Log"
 29,0,www.tkqlhce.com,1,1605453122,1605453122,Rakuten
+30,0,cws-hulu.conviva.com,1,1619385742,1619386000,
+31,0,ads-v-darwin.hulustream.com,1,1619385841,1619385981,
+32,0,dpm.demdex.net,1,1619385859,1619385966,
+36,2,(\.|^)hulustream\.com$,1,1619386462,1619386462,
+37,3,(\.|^)czilladx\.com$,1,1619623527,1619623527,
+38,3,(\.|^)bmcdn1\.com$,1,1619629344,1619629344,
